@@ -463,7 +463,6 @@ class T257P:
                 return res
             else:
                 return 0
-            return statestr
         else:
             self.handle_error(ret[5])
             return None
